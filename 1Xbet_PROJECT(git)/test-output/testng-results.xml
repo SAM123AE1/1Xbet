@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-09T16:53:26 IST" name="Default suite" finished-at="2024-12-09T16:53:38 IST" duration-ms="12009">
+    <groups>
+    </groups>
+    <test started-at="2024-12-09T16:53:26 IST" name="Default test" finished-at="2024-12-09T16:53:38 IST" duration-ms="12009">
+      <class name="Xbet_package.Login_XbetTest">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:Xbet_package.Login_XbetTest@6e9a5ed8]" started-at="2024-12-09T16:53:09 IST" name="BeforeSuite" finished-at="2024-12-09T16:53:26 IST" duration-ms="16732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Xbet_package.Login_XbetTest@6e9a5ed8]" started-at="2024-12-09T16:53:26 IST" name="BeforeClass" finished-at="2024-12-09T16:53:37 IST" duration-ms="10717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="Loginto_1Xbet()[pri:0, instance:Xbet_package.Login_XbetTest@6e9a5ed8]" started-at="2024-12-09T16:53:37 IST" name="Loginto_1Xbet" finished-at="2024-12-09T16:53:38 IST" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginto_1Xbet -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Xbet_package.Login_XbetTest@6e9a5ed8]" started-at="2024-12-09T16:53:38 IST" name="afterClass" finished-at="2024-12-09T16:53:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Xbet_package.Login_XbetTest@6e9a5ed8]" started-at="2024-12-09T16:53:38 IST" name="afterSuite" finished-at="2024-12-09T16:53:38 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Xbet_package.Login_XbetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

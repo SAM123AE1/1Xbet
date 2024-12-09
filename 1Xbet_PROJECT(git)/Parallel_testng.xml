@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="2" name="Test1">
+  <classes>
+   <class name="A_Package1.Serverlaunch_generalstoreTest"/>
+       <parameter name="dName" value="Redmi 10"></parameter>
+  <parameter name="id" value="62e976b5"></parameter>
+  </classes>
+</test>
+ <test thread-count="2" name="Test2">
+  <classes>
+   <class name="A_Package1.Serverlaunch_generalstoreTest"/>
+       <parameter name="dName" value="vivo V21e 5G"></parameter>
+  <parameter name="id" value="1360431040000HV"></parameter>
+  
+    </classes>
+  
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
